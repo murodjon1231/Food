@@ -222,7 +222,7 @@ const SimplifiedFoodi = () => {
             <span className="social-icon"><i class="fi fi-brands-instagram"></i></span>
             <span className="social-icon"><i class="fi fi-brands-twitter"></i></span>
             <span className="social-icon"><i class="fi fi-brands-youtube"></i></span>
-          </div>
+          </div >
           <p className='reserved'>Copyright © 2023 Doodle | All rights reserved</p>
         </div>
       </footer>
